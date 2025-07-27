@@ -38,7 +38,7 @@
 
 <img src="https://img.icons8.com/color/96/000000/html-5.png" width="60" style="max-width:100%; height:auto;" alt="HTML5" title="HTML5">
 
-<<i class="fab fa-font-awesome fa-3x" style="color: #528DD7;"></i> width="60" style="max-width:100%; height:auto;" alt="Font Awesome">
+<i class="fab fa-font-awesome fa-3x" style="color: #528DD7;"></i>
 
 </div>
 
